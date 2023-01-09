@@ -10,7 +10,7 @@
   "author": "Olimpiu Seulean",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.30.0",
+    "eslint": "^8.31.0",
     "pre-commit": "^1.2.2"
   },
   "pre-commit": {
